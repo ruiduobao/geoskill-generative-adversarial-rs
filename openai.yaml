@@ -1,0 +1,13 @@
+name: geoskill-generative-adversarial-rs
+display_name: 生成对抗遥感应用
+description: |
+  GAN (U-Net + PatchGAN) 云去除 / 影像增强，torch+CUDA GPU 训练与推理
+version: 0.1.0
+author: Mavis
+entrypoint: geoskill-generative-adversarial-rs.py
+runtime: python>=3.9
+tags:
+  - deep-learning
+  - gis
+  - gpu
+  - remote-sensing

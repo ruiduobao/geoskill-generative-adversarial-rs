@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Per-skill run outputs (regenerated on each run)
+output/
+_test_out_*/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.bak
+*.tmp
+*.legacy
+.pre_exit_fix
+.publish-stash/
+
+# ClawHub / publishing
+*.egg-info/
+
+# Review artifacts (not for release)
+README.md.orig
+REVIEW.md
