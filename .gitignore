@@ -44,3 +44,7 @@ Thumbs.db
 # Review artifacts (not for release)
 README.md.orig
 REVIEW.md
+
+# Upgrade v1: never commit caches or partial downloads
+*.pyc
+*.part

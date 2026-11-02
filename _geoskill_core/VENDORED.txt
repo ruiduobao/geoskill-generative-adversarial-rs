@@ -1,7 +1,7 @@
 schema: geoskill-core/v1
 version: 0.2.0
 timestamp: 2026-07-26T17:41:45.663647+00:00
-skill: landsat-download
+skill: geoskill-generative-adversarial-rs
 sha256: __init__.py 985f46ae9c0824a8f6fe9849808a2f39081eeb46c8118a7f1e967f3e8c65c16c
 sha256: errors.py cd825cd77eeb23bd4ed3ac8c83670bb022f48df8b4ffb1c5759f6cb618ee0804
 sha256: manifest.py da7781616420e20a23221df7776206029dada53b5ed52e72d1c98720b8867de1
